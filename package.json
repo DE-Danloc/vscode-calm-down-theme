@@ -7,7 +7,8 @@
         "vscode": "^1.62.0"
     },
     "categories": [
-        "Themes"
+        "Themes",
+        "Visualization"
     ],
     "contributes": {
         "themes": [
@@ -17,5 +18,9 @@
                 "path": "./themes/calm-down-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DE-Danloc/vscode-calm-down-theme/blob/master/README.md"
+      }
 }
