@@ -1,0 +1,21 @@
+{
+    "name": "calm-dowm-color-theme",
+    "displayName": "calm-dowm-color-theme",
+    "description": "Carefully created! Flat coloring without losing the variety of colors that makes the source code easy to read",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Calm Down Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/calm-down-color-theme.json"
+            }
+        ]
+    }
+}
