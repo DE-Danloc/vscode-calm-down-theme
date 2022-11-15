@@ -2,6 +2,6 @@
 
 Carefully created! Flat coloring without losing the variety of colors that makes the source code easy to read.
 
-This theme is used to avoid eye fatigue.
+**This theme was created to avoid eye fatigue.**
 
 ## Editor
