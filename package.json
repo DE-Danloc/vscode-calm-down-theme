@@ -1,6 +1,6 @@
 {
-    "name": "calm-dowm-color-theme",
-    "displayName": "calm-dowm-color-theme",
+    "name": "vscode-calm-dowm-theme",
+    "displayName": "calm-dowm-theme",
     "description": "Carefully created! Flat coloring without losing the variety of colors that makes the source code easy to read",
     "version": "1.0.0",
     "engines": {
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Calm Down Color Theme",
+                "label": "Calm Down Color Theme for Visual Studio Code",
                 "uiTheme": "vs-dark",
                 "path": "./themes/calm-down-color-theme.json"
             }
