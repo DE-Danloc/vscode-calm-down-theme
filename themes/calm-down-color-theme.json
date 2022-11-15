@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#4baff3"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#a97676"
       }
     },
@@ -1963,6 +1963,8 @@
     "editorGutter.foldingControlForeground": "#69799f",
     "editorCodeLens.foreground": "#999999",
     "editorGroup.border": "#444444",
+    "editorInlayHint.foreground": "#446262",
+    "editorInlayHint.background": "#0000",
     "diffEditor.insertedTextBackground": "#44558633",
     "diffEditor.removedTextBackground": "#b82f2f33",
     "diffEditor.border": "#444444",
