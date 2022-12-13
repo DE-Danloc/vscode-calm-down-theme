@@ -1,27 +1,27 @@
 {
-    "name": "vscode-calm-down-theme",
-    "displayName": "calm-down-theme",
-    "description": "Carefully created! Flat coloring without losing the variety of colors that makes the source code easy to read",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.62.0"
-    },
-    "publisher": "DanielEichwald",
-    "categories": [
-        "Themes",
-        "Visualization"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Calm Down Color Theme for Visual Studio Code",
-                "uiTheme": "vs-dark",
-                "path": "./themes/calm-down-color-theme.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/DE-Danloc/vscode-calm-down-theme/blob/master/README.md"
+  "name": "vscode-calm-down-theme",
+  "displayName": "calm-down-theme",
+  "description": "Carefully created! Flat coloring without losing the variety of colors that makes the source code easy to read",
+  "version": "1.1.0",
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "publisher": "DanielEichwald",
+  "categories": [
+    "Themes",
+    "Visualization"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Calm Down Color Theme for Visual Studio Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/calm-down-color-theme.json"
       }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DE-Danloc/vscode-calm-down-theme/blob/master/README.md"
+  }
 }
